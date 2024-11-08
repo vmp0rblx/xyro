@@ -1,0 +1,1 @@
+This website hosts the bootstrapper download, the auth, and the main download. This includes version info and API updates.
