@@ -1,0 +1,1 @@
+The UI for Xyro is wrote in .net8.0 Windows! It is not very well made and leaves room for better optimization, but overall a fun project. 
