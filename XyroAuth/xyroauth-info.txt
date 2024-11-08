@@ -1,0 +1,1 @@
+This will include basic example of how Xyro's simple (and crackable) but functional auth works!
