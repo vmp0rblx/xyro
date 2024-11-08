@@ -1,0 +1,5 @@
+XyroAPI is based off of Xeno and slightly modified to allow for;
+    A). Easy Exploit Implementation
+    B). Better Capabilities
+    C). Better Drawing Library
+    D). Better Update Speeds
